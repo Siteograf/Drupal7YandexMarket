@@ -1,0 +1,11 @@
+name = YML export
+description = YML export for Ubercart products (Yandex.Market)
+dependencies[] = taxonomy
+core = 7.x
+configure = admin/config/services/yml_export
+
+; Information added by Drupal.org packaging script on 2016-04-20
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "yml_export"
+datestamp = "1461177861"
